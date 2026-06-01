@@ -1,60 +1,5 @@
 [
   {
-    "id": "robe-robin-600e-spot",
-    "brand": "Robe",
-    "name": "Robin 600E Spot",
-    "type": "Moving Head Spot",
-    "source": "Gas Discharge",
-    "weight_kg": 22.5,
-    "rdm": true,
-    "manual_url": null,
-    "dmx_chart_url": null
-  },
-  {
-    "id": "martin-mac-viper-profile",
-    "brand": "Martin",
-    "name": "MAC Viper Profile",
-    "type": "Moving Head Spot",
-    "source": "Gas Discharge",
-    "weight_kg": 24,
-    "rdm": true,
-    "manual_url": null,
-    "dmx_chart_url": null
-  },
-  {
-    "id": "martin-mac-aura-xb",
-    "brand": "Martin",
-    "name": "MAC Aura XB",
-    "type": "Moving Head Wash",
-    "source": "LED",
-    "weight_kg": 11.8,
-    "rdm": true,
-    "manual_url": null,
-    "dmx_chart_url": null
-  },
-  {
-    "id": "etc-source-four-led-s3",
-    "brand": "ETC",
-    "name": "Source Four LED Series 3",
-    "type": "Profile Spot",
-    "source": "LED",
-    "weight_kg": 3.9,
-    "rdm": false,
-    "manual_url": null,
-    "dmx_chart_url": null
-  },
-  {
-    "id": "claypaky-xtylos",
-    "brand": "Claypaky",
-    "name": "Xtylos",
-    "type": "Moving Head Beam",
-    "source": "Laser",
-    "weight_kg": 20.5,
-    "rdm": true,
-    "manual_url": null,
-    "dmx_chart_url": null
-  },
-  {
     "id": "ayrton-veloce-profile",
     "brand": "Ayrton",
     "name": "Veloce Profile",
@@ -64,5 +9,49 @@
     "rdm": true,
     "manual_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/VeloceProfile_Web_EN_V117-1.pdf",
     "dmx_chart_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/Veloce_Profile_DMX-Chart-V115-1.pdf"
+  },
+  {
+    "id": "claypaky-arolla-aqua-lt",
+    "brand": "Clay Paky",
+    "name": "Arolla Aqua LT",
+    "type": "LED Outdoor Wash",
+    "source": "LED",
+    "weight_kg": 6.1,
+    "rdm": false,
+    "manual_url": null,
+    "dmx_chart_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=4450"
+  },
+  {
+    "id": "claypaky-skylos",
+    "brand": "Clay Paky",
+    "name": "Skylos",
+    "type": "Moving Head Spot",
+    "source": "Gas Discharge",
+    "weight_kg": 35.0,
+    "rdm": true,
+    "manual_url": "https://motion-rental.de/downloads/artikelpdfs/26489-CLAYPAKY_Skylos_manual_ENG.pdf",
+    "dmx_chart_url": "https://www.visiontwo.de/fileadmin/user_upload/Claypaky_Skylos_DMX-Channels_06.2023.pdf"
+  },
+  {
+    "id": "clf-serius",
+    "brand": "CLF",
+    "name": "Serius",
+    "type": "Moving Head Spot",
+    "source": "LED",
+    "weight_kg": 21.0,
+    "rdm": false,
+    "manual_url": "https://www.clf-lighting.com/wp-content/uploads/Manual-CLF-Serius.pdf",
+    "dmx_chart_url": null
+  },
+  {
+    "id": "robe-iforte-ltx",
+    "brand": "Robe",
+    "name": "iForte LTX",
+    "type": "Moving Head Spot",
+    "source": "LED",
+    "weight_kg": 37.6,
+    "rdm": true,
+    "manual_url": "https://www.robe.cz/res/downloads/user_manuals/User_manual_Robin_iForte_LTX_WB_iForte_LTX_FS.pdf",
+    "dmx_chart_url": "https://www.robe.cz/res/downloads/dmx_charts/Robin_iForte_LTX_iForte_LTX_FS_DMX_charts.pdf"
   }
 ]
