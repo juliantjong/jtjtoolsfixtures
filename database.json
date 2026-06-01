@@ -122,17 +122,18 @@
       "dmx_chart_url": "https://www.robe.cz/res/downloads/dmx_charts/Robin_iForte_LTX_iForte_LTX_FS_DMX_charts.pdf"
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "infinity-s401",
       "brand": "Infinity",
       "name": "S401",
       "type": "Moving Head Profile",
-      "source": "Gas Discharge",
+      "source": "LED",
       "weight_kg": 25,
       "rdm": true,
-      "auto_import": true,
-      "manual_url": null,
+      "checked": true,
+      "suppliers": [
+        "Leenders Rentall"
+      ],
+      "manual_url": "https://www.stageroads.nl/wp-content/uploads/2018/04/41506_MANUAL_NL_V1.pdf",
       "dmx_chart_url": null
     },
     {
