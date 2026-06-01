@@ -209,16 +209,17 @@
       "dmx_chart_url": null
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "led-strobe-e-pulse",
-      "brand": "LED Strobe",
+      "brand": "URC",
       "name": "E-Pulse",
       "type": "Strobe",
       "source": "LED",
       "weight_kg": 3,
       "rdm": false,
-      "auto_import": true,
+      "checked": true,
+      "suppliers": [
+        "Leenders Rentall"
+      ],
       "manual_url": null,
       "dmx_chart_url": null
     }
