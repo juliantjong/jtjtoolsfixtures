@@ -1,0 +1,90 @@
+[
+  {
+    "id": "robe-spiider",
+    "brand": "Robe",
+    "name": "Spiider",
+    "type": "Moving Head Wash",
+    "source": "LED",
+    "weight_kg": 22.6,
+    "rdm": true,
+    "manual_url": null,
+    "dmx_chart_url": null
+  },
+  {
+    "id": "robe-robin-600e-spot",
+    "brand": "Robe",
+    "name": "Robin 600E Spot",
+    "type": "Moving Head Spot",
+    "source": "Gas Discharge",
+    "weight_kg": 22.5,
+    "rdm": true,
+    "manual_url": null,
+    "dmx_chart_url": null
+  },
+  {
+    "id": "martin-mac-viper-profile",
+    "brand": "Martin",
+    "name": "MAC Viper Profile",
+    "type": "Moving Head Spot",
+    "source": "Gas Discharge",
+    "weight_kg": 24.0,
+    "rdm": true,
+    "manual_url": null,
+    "dmx_chart_url": null
+  },
+  {
+    "id": "martin-mac-aura-xb",
+    "brand": "Martin",
+    "name": "MAC Aura XB",
+    "type": "Moving Head Wash",
+    "source": "LED",
+    "weight_kg": 11.8,
+    "rdm": true,
+    "manual_url": null,
+    "dmx_chart_url": null
+  },
+  {
+    "id": "etc-source-four-led-s3",
+    "brand": "ETC",
+    "name": "Source Four LED Series 3",
+    "type": "Profile Spot",
+    "source": "LED",
+    "weight_kg": 3.9,
+    "rdm": false,
+    "manual_url": null,
+    "dmx_chart_url": null
+  },
+  {
+    "id": "claypaky-sharpy",
+    "brand": "Claypaky",
+    "name": "Sharpy",
+    "type": "Moving Head Beam",
+    "source": "Gas Discharge",
+    "weight_kg": 16.0,
+    "rdm": false,
+    "manual_url": null,
+    "dmx_chart_url": null
+  },
+  {
+    "id": "claypaky-xtylos",
+    "brand": "Claypaky",
+    "name": "Xtylos",
+    "type": "Moving Head Beam",
+    "source": "Laser",
+    "weight_kg": 20.5,
+    "rdm": true,
+    "manual_url": null,
+    "dmx_chart_url": null
+  },
+  {
+    "id": "chauvet-colorado-solo",
+    "brand": "Chauvet Professional",
+    "name": "Colorado Solo",
+    "type": "LED Par",
+    "source": "LED",
+    "weight_kg": 3.4,
+    "rdm": false,
+    "manual_url": null,
+    "dmx_chart_url": null
+  }
+]
