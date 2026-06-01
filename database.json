@@ -11,6 +11,17 @@
     "dmx_chart_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/Veloce_Profile_DMX-Chart-V115-1.pdf"
   },
   {
+    "id": "chauvet-color-strike-m",
+    "brand": "Chauvet Professional",
+    "name": "Color Strike M",
+    "type": "Strobe/Wash",
+    "source": "LED",
+    "weight_kg": 12.1,
+    "rdm": true,
+    "manual_url": "https://chauvetprofessional.com/wp-content/uploads/pdf/en/COLORSTRIKEMV2.pdf",
+    "dmx_chart_url": "https://www.chauvetprofessional.com/wp-content/uploads/2021/09/Color-STRIKE-M_DMX_Chart_Rev7.pdf"
+  },
+  {
     "id": "claypaky-arolla-aqua-lt",
     "brand": "Clay Paky",
     "name": "Arolla Aqua LT",
