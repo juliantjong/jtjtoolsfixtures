@@ -75,16 +75,5 @@
     "rdm": true,
     "manual_url": null,
     "dmx_chart_url": null
-  },
-  {
-    "id": "chauvet-colorado-solo",
-    "brand": "Chauvet Professional",
-    "name": "Colorado Solo julian",
-    "type": "LED Par",
-    "source": "LED",
-    "weight_kg": 3.4,
-    "rdm": false,
-    "manual_url": null,
-    "dmx_chart_url": null
   }
 ]
