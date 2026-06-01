@@ -96,15 +96,19 @@
       "dmx_chart_url": "https://www.visiontwo.de/fileadmin/user_upload/Claypaky_Skylos_DMX-Channels_06.2023.pdf"
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "clf-serius",
       "brand": "CLF",
       "name": "Serius",
       "type": "Tilt Bar",
       "source": "LED",
-      "weight_kg": 21,
+      "weight_kg": 17,
       "rdm": true,
+      "checked": true,
+      "suppliers": [
+        "AED",
+        "Euro-PA",
+        "Rent-All"
+      ],
       "manual_url": "https://www.clf-lighting.com/wp-content/uploads/Manual-CLF-Serius.pdf",
       "dmx_chart_url": null
     },
@@ -152,6 +156,10 @@
       "dmx_chart_url": null
     },
     {
+      "suppliers": [
+        "Leenders Rentall"
+      ],
+      "checked": true,
       "id": "showtec-phantom-100",
       "brand": "Showtec",
       "name": "Phantom 100",
@@ -159,10 +167,6 @@
       "source": "LED",
       "weight_kg": 11.3,
       "rdm": false,
-      "checked": true,
-      "suppliers": [
-        "Leenders Rentall"
-      ],
       "manual_url": "https://www.huss-licht-ton.de/images/products_download/User_Manual_34468_1.pdf",
       "dmx_chart_url": null
     },
@@ -182,6 +186,10 @@
       "dmx_chart_url": null
     },
     {
+      "suppliers": [
+        "Leenders Rentall"
+      ],
+      "checked": true,
       "id": "showtec-stage-blinder-2way",
       "brand": "Showtec",
       "name": "Stage Blinder 2-way",
@@ -189,14 +197,14 @@
       "source": "Halogen",
       "weight_kg": 3,
       "rdm": false,
-      "checked": true,
-      "suppliers": [
-        "Leenders Rentall"
-      ],
       "manual_url": "https://www.stageroads.nl/wp-content/uploads/2017/05/30770_MANUAL_GB_V1.pdf",
       "dmx_chart_url": null
     },
     {
+      "suppliers": [
+        "Leenders Rentall"
+      ],
+      "checked": true,
       "id": "showtec-titan-strobe-blaze-1500w",
       "brand": "Showtec",
       "name": "Titan Strobe Blaze 1500w",
@@ -204,10 +212,6 @@
       "source": "Gas Discharge",
       "weight_kg": 8,
       "rdm": false,
-      "checked": true,
-      "suppliers": [
-        "Leenders Rentall"
-      ],
       "manual_url": "https://www.showtec-lights.com/nl/mwdownloads/download/link/id/17429339",
       "dmx_chart_url": null
     },
