@@ -182,17 +182,18 @@
       "dmx_chart_url": null
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "showtec-stage-blinder-2way",
       "brand": "Showtec",
       "name": "Stage Blinder 2-way",
       "type": "Audience Blinder",
       "source": "Halogen",
-      "weight_kg": 12,
+      "weight_kg": 3,
       "rdm": false,
-      "auto_import": true,
-      "manual_url": null,
+      "checked": true,
+      "suppliers": [
+        "Leenders Rentall"
+      ],
+      "manual_url": "https://www.stageroads.nl/wp-content/uploads/2017/05/30770_MANUAL_GB_V1.pdf",
       "dmx_chart_url": null
     },
     {
