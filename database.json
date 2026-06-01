@@ -9,7 +9,8 @@
     "rdm": true,
     "checked": true,
     "manual_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/VeloceProfile_Web_EN_V117-1.pdf",
-    "dmx_chart_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/Veloce_Profile_DMX-Chart-V115-1.pdf"
+    "dmx_chart_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/Veloce_Profile_DMX-Chart-V115-1.pdf",
+    "suppliers": []
   },
   {
     "id": "chauvet-color-strike-m",
@@ -20,7 +21,8 @@
     "weight_kg": 12.1,
     "rdm": true,
     "manual_url": "https://chauvetprofessional.com/wp-content/uploads/pdf/en/COLORSTRIKEMV2.pdf",
-    "dmx_chart_url": "https://www.chauvetprofessional.com/wp-content/uploads/2021/09/Color-STRIKE-M_DMX_Chart_Rev7.pdf"
+    "dmx_chart_url": "https://www.chauvetprofessional.com/wp-content/uploads/2021/09/Color-STRIKE-M_DMX_Chart_Rev7.pdf",
+    "suppliers": []
   },
   {
     "id": "claypaky-arolla-aqua-lt",
@@ -31,7 +33,8 @@
     "weight_kg": 6.1,
     "rdm": true,
     "manual_url": null,
-    "dmx_chart_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=4450"
+    "dmx_chart_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=4450",
+    "suppliers": []
   },
   {
     "id": "claypaky-skylos",
@@ -42,7 +45,8 @@
     "weight_kg": 35,
     "rdm": true,
     "manual_url": "https://motion-rental.de/downloads/artikelpdfs/26489-CLAYPAKY_Skylos_manual_ENG.pdf",
-    "dmx_chart_url": "https://www.visiontwo.de/fileadmin/user_upload/Claypaky_Skylos_DMX-Channels_06.2023.pdf"
+    "dmx_chart_url": "https://www.visiontwo.de/fileadmin/user_upload/Claypaky_Skylos_DMX-Channels_06.2023.pdf",
+    "suppliers": []
   },
   {
     "id": "clf-serius",
@@ -53,7 +57,8 @@
     "weight_kg": 21,
     "rdm": true,
     "manual_url": "https://www.clf-lighting.com/wp-content/uploads/Manual-CLF-Serius.pdf",
-    "dmx_chart_url": null
+    "dmx_chart_url": null,
+    "suppliers": []
   },
   {
     "id": "robe-iforte-ltx",
@@ -64,6 +69,7 @@
     "weight_kg": 37.6,
     "rdm": true,
     "manual_url": "https://www.robe.cz/res/downloads/user_manuals/User_manual_Robin_iForte_LTX_WB_iForte_LTX_FS.pdf",
-    "dmx_chart_url": "https://www.robe.cz/res/downloads/dmx_charts/Robin_iForte_LTX_iForte_LTX_FS_DMX_charts.pdf"
+    "dmx_chart_url": "https://www.robe.cz/res/downloads/dmx_charts/Robin_iForte_LTX_iForte_LTX_FS_DMX_charts.pdf",
+    "suppliers": []
   }
 ]
