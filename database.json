@@ -8,7 +8,11 @@
     "weight_kg": 40.5,
     "rdm": true,
     "checked": true,
-    "suppliers": [],
+    "suppliers": [
+      "AED",
+      "PRG",
+      "Rent-All"
+    ],
     "manual_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/VeloceProfile_Web_EN_V117-1.pdf",
     "dmx_chart_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/Veloce_Profile_DMX-Chart-V115-1.pdf"
   },
