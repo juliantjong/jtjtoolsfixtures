@@ -1,16 +1,5 @@
 [
   {
-    "id": "robe-spiider",
-    "brand": "Robe",
-    "name": "Spiider",
-    "type": "Moving Head Wash",
-    "source": "LED",
-    "weight_kg": 22.6,
-    "rdm": true,
-    "manual_url": null,
-    "dmx_chart_url": null
-  },
-  {
     "id": "robe-robin-600e-spot",
     "brand": "Robe",
     "name": "Robin 600E Spot",
