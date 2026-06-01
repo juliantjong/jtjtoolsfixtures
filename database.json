@@ -1,84 +1,123 @@
-[
-  {
-    "suppliers": [
-      "AED",
-      "PRG",
-      "Rent-All"
-    ],
-    "checked": true,
-    "id": "ayrton-veloce-profile",
-    "brand": "Ayrton",
-    "name": "Veloce Profile",
-    "type": "Moving Head Framing Spot",
-    "source": "LED",
-    "weight_kg": 40.5,
-    "rdm": true,
-    "manual_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/VeloceProfile_Web_EN_V117-1.pdf",
-    "dmx_chart_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/Veloce_Profile_DMX-Chart-V115-1.pdf"
-  },
-  {
-    "suppliers": [],
-    "checked": false,
-    "id": "chauvet-color-strike-m",
-    "brand": "Chauvet Professional",
-    "name": "Color Strike M",
-    "type": "Strobe/Wash",
-    "source": "LED",
-    "weight_kg": 12.1,
-    "rdm": true,
-    "manual_url": "https://chauvetprofessional.com/wp-content/uploads/pdf/en/COLORSTRIKEMV2.pdf",
-    "dmx_chart_url": "https://www.chauvetprofessional.com/wp-content/uploads/2021/09/Color-STRIKE-M_DMX_Chart_Rev7.pdf"
-  },
-  {
-    "suppliers": [],
-    "checked": false,
-    "id": "claypaky-arolla-aqua-lt",
-    "brand": "Clay Paky",
-    "name": "Arolla Aqua LT",
-    "type": "Moving Head Spot",
-    "source": "LED",
-    "weight_kg": 6.1,
-    "rdm": true,
-    "manual_url": null,
-    "dmx_chart_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=4450"
-  },
-  {
-    "suppliers": [],
-    "checked": false,
-    "id": "claypaky-skylos",
-    "brand": "Clay Paky",
-    "name": "Skylos",
-    "type": "Moving Head Beam",
-    "source": "Laser",
-    "weight_kg": 35,
-    "rdm": true,
-    "manual_url": "https://motion-rental.de/downloads/artikelpdfs/26489-CLAYPAKY_Skylos_manual_ENG.pdf",
-    "dmx_chart_url": "https://www.visiontwo.de/fileadmin/user_upload/Claypaky_Skylos_DMX-Channels_06.2023.pdf"
-  },
-  {
-    "suppliers": [],
-    "checked": false,
-    "id": "clf-serius",
-    "brand": "CLF",
-    "name": "Serius",
-    "type": "Tilt Bar",
-    "source": "LED",
-    "weight_kg": 21,
-    "rdm": true,
-    "manual_url": "https://www.clf-lighting.com/wp-content/uploads/Manual-CLF-Serius.pdf",
-    "dmx_chart_url": null
-  },
-  {
-    "suppliers": [],
-    "checked": false,
-    "id": "robe-iforte-ltx",
-    "brand": "Robe",
-    "name": "iForte LTX",
-    "type": "Moving Head Spot",
-    "source": "LED",
-    "weight_kg": 37.6,
-    "rdm": true,
-    "manual_url": "https://www.robe.cz/res/downloads/user_manuals/User_manual_Robin_iForte_LTX_WB_iForte_LTX_FS.pdf",
-    "dmx_chart_url": "https://www.robe.cz/res/downloads/dmx_charts/Robin_iForte_LTX_iForte_LTX_FS_DMX_charts.pdf"
-  }
-]
+{
+  "types": [
+    "Moving Head Profile",
+    "Moving Head Spot",
+    "Moving Head Wash",
+    "Moving Head Beam",
+    "Moving Head Hybrid",
+    "Moving Head Framing Spot",
+    "LED Par",
+    "LED Bar",
+    "LED Strip / Batten",
+    "LED Flood",
+    "LED Outdoor Wash",
+    "LED Matrix",
+    "Pixel Bar",
+    "Audience Blinder",
+    "Fresnel",
+    "PC Spot",
+    "Profile Spot (ERS / Leko)",
+    "Conventional Flood",
+    "Cyc Light",
+    "Border Light",
+    "Followspot",
+    "Strobe",
+    "Laser",
+    "Tilt Bar",
+    "Smoke Machine",
+    "Haze Machine",
+    "Confetti Cannon"
+  ],
+  "suppliers": [
+    "AED",
+    "ATG",
+    "Euro-PA",
+    "Leenders Rentall",
+    "PRG",
+    "Rent-All"
+  ],
+  "fixtures": [
+    {
+      "suppliers": [
+        "AED",
+        "PRG",
+        "Rent-All"
+      ],
+      "checked": true,
+      "id": "ayrton-veloce-profile",
+      "brand": "Ayrton",
+      "name": "Veloce Profile",
+      "type": "Moving Head Framing Spot",
+      "source": "LED",
+      "weight_kg": 40.5,
+      "rdm": true,
+      "manual_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/VeloceProfile_Web_EN_V117-1.pdf",
+      "dmx_chart_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/Veloce_Profile_DMX-Chart-V115-1.pdf"
+    },
+    {
+      "suppliers": [],
+      "checked": false,
+      "id": "chauvet-color-strike-m",
+      "brand": "Chauvet Professional",
+      "name": "Color Strike M",
+      "type": "Strobe/Wash",
+      "source": "LED",
+      "weight_kg": 12.1,
+      "rdm": true,
+      "manual_url": "https://chauvetprofessional.com/wp-content/uploads/pdf/en/COLORSTRIKEMV2.pdf",
+      "dmx_chart_url": "https://www.chauvetprofessional.com/wp-content/uploads/2021/09/Color-STRIKE-M_DMX_Chart_Rev7.pdf"
+    },
+    {
+      "suppliers": [],
+      "checked": false,
+      "id": "claypaky-arolla-aqua-lt",
+      "brand": "Clay Paky",
+      "name": "Arolla Aqua LT",
+      "type": "Moving Head Spot",
+      "source": "LED",
+      "weight_kg": 6.1,
+      "rdm": true,
+      "manual_url": null,
+      "dmx_chart_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=4450"
+    },
+    {
+      "suppliers": [],
+      "checked": false,
+      "id": "claypaky-skylos",
+      "brand": "Clay Paky",
+      "name": "Skylos",
+      "type": "Moving Head Beam",
+      "source": "Laser",
+      "weight_kg": 35,
+      "rdm": true,
+      "manual_url": "https://motion-rental.de/downloads/artikelpdfs/26489-CLAYPAKY_Skylos_manual_ENG.pdf",
+      "dmx_chart_url": "https://www.visiontwo.de/fileadmin/user_upload/Claypaky_Skylos_DMX-Channels_06.2023.pdf"
+    },
+    {
+      "suppliers": [],
+      "checked": false,
+      "id": "clf-serius",
+      "brand": "CLF",
+      "name": "Serius",
+      "type": "Tilt Bar",
+      "source": "LED",
+      "weight_kg": 21,
+      "rdm": true,
+      "manual_url": "https://www.clf-lighting.com/wp-content/uploads/Manual-CLF-Serius.pdf",
+      "dmx_chart_url": null
+    },
+    {
+      "suppliers": [],
+      "checked": false,
+      "id": "robe-iforte-ltx",
+      "brand": "Robe",
+      "name": "iForte LTX",
+      "type": "Moving Head Spot",
+      "source": "LED",
+      "weight_kg": 37.6,
+      "rdm": true,
+      "manual_url": "https://www.robe.cz/res/downloads/user_manuals/User_manual_Robin_iForte_LTX_WB_iForte_LTX_FS.pdf",
+      "dmx_chart_url": "https://www.robe.cz/res/downloads/dmx_charts/Robin_iForte_LTX_iForte_LTX_FS_DMX_charts.pdf"
+    }
+  ]
+}
