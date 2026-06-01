@@ -57,8 +57,6 @@
       "dmx_chart_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/Veloce_Profile_DMX-Chart-V115-1.pdf"
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "chauvet-color-strike-m",
       "brand": "Chauvet Professional",
       "name": "Color Strike M",
@@ -66,8 +64,15 @@
       "source": "LED",
       "weight_kg": 12.1,
       "rdm": true,
-      "manual_url": "https://chauvetprofessional.com/wp-content/uploads/pdf/en/COLORSTRIKEMV2.pdf",
-      "dmx_chart_url": "https://www.chauvetprofessional.com/wp-content/uploads/2021/09/Color-STRIKE-M_DMX_Chart_Rev7.pdf"
+      "checked": true,
+      "suppliers": [
+        "AED",
+        "Euro-PA",
+        "RF Shows",
+        "Rent-All"
+      ],
+      "manual_url": "https://chauvetprofessional.com/wp-content/uploads/2021/09/Color_Strike_MV2_UM_Rev15.pdf",
+      "dmx_chart_url": "https://chauvetprofessional.com/wp-content/uploads/2021/09/Color-STRIKE-MV2_DMX_Chart_Rev10.pdf"
     },
     {
       "id": "claypaky-arolla-aqua-lt",
