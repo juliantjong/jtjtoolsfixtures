@@ -164,8 +164,6 @@
       "dmx_chart_url": null
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "beamz-nereid-120w",
       "brand": "Beamz",
       "name": "Nereid 120w",
@@ -173,8 +171,11 @@
       "source": "LED",
       "weight_kg": 8,
       "rdm": false,
-      "auto_import": true,
-      "manual_url": null,
+      "checked": true,
+      "suppliers": [
+        "Leenders Rentall"
+      ],
+      "manual_url": "https://www.beamzlighting.com/wp-content/uploads/2026/04/152.052-Nereid120W-Outdoor-Moving-Head-Beam-Manual-V1.0.pdf",
       "dmx_chart_url": null
     },
     {
