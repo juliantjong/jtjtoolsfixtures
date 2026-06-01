@@ -3,7 +3,7 @@
     "id": "ayrton-veloce-profile",
     "brand": "Ayrton",
     "name": "Veloce Profile julian",
-    "type": "Moving Head Spot",
+    "type": "Moving Head Framing Spot",
     "source": "LED",
     "weight_kg": 40.5,
     "rdm": true,
