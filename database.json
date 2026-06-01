@@ -55,17 +55,6 @@
     "dmx_chart_url": null
   },
   {
-    "id": "claypaky-sharpy",
-    "brand": "Claypaky",
-    "name": "Sharpy",
-    "type": "Moving Head Beam",
-    "source": "Gas Discharge",
-    "weight_kg": 16,
-    "rdm": false,
-    "manual_url": null,
-    "dmx_chart_url": null
-  },
-  {
     "id": "claypaky-xtylos",
     "brand": "Claypaky",
     "name": "Xtylos",
