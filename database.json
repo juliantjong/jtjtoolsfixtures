@@ -46,12 +46,23 @@
   {
     "id": "claypaky-xtylos",
     "brand": "Claypaky",
-    "name": "Xtylos Julian is echt heel cool",
+    "name": "Xtylos",
     "type": "Moving Head Beam",
     "source": "Laser",
     "weight_kg": 20.5,
     "rdm": true,
     "manual_url": null,
     "dmx_chart_url": null
+  },
+  {
+    "id": "ayrton-veloce-profile",
+    "brand": "Ayrton",
+    "name": "Veloce Profile",
+    "type": "Moving Head Spot",
+    "source": "LED",
+    "weight_kg": 40.5,
+    "rdm": true,
+    "manual_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/VeloceProfile_Web_EN_V117-1.pdf",
+    "dmx_chart_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/Veloce_Profile_DMX-Chart-V115-1.pdf"
   }
 ]
