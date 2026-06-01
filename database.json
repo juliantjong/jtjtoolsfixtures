@@ -2,17 +2,19 @@
   {
     "id": "ayrton-veloce-profile",
     "brand": "Ayrton",
-    "name": "Veloce Profile julian",
+    "name": "Veloce Profile",
     "type": "Moving Head Framing Spot",
     "source": "LED",
     "weight_kg": 40.5,
     "rdm": true,
     "checked": true,
+    "suppliers": [],
     "manual_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/VeloceProfile_Web_EN_V117-1.pdf",
-    "dmx_chart_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/Veloce_Profile_DMX-Chart-V115-1.pdf",
-    "suppliers": []
+    "dmx_chart_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/Veloce_Profile_DMX-Chart-V115-1.pdf"
   },
   {
+    "suppliers": [],
+    "checked": false,
     "id": "chauvet-color-strike-m",
     "brand": "Chauvet Professional",
     "name": "Color Strike M",
@@ -21,10 +23,11 @@
     "weight_kg": 12.1,
     "rdm": true,
     "manual_url": "https://chauvetprofessional.com/wp-content/uploads/pdf/en/COLORSTRIKEMV2.pdf",
-    "dmx_chart_url": "https://www.chauvetprofessional.com/wp-content/uploads/2021/09/Color-STRIKE-M_DMX_Chart_Rev7.pdf",
-    "suppliers": []
+    "dmx_chart_url": "https://www.chauvetprofessional.com/wp-content/uploads/2021/09/Color-STRIKE-M_DMX_Chart_Rev7.pdf"
   },
   {
+    "suppliers": [],
+    "checked": false,
     "id": "claypaky-arolla-aqua-lt",
     "brand": "Clay Paky",
     "name": "Arolla Aqua LT",
@@ -33,10 +36,11 @@
     "weight_kg": 6.1,
     "rdm": true,
     "manual_url": null,
-    "dmx_chart_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=4450",
-    "suppliers": []
+    "dmx_chart_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=4450"
   },
   {
+    "suppliers": [],
+    "checked": false,
     "id": "claypaky-skylos",
     "brand": "Clay Paky",
     "name": "Skylos",
@@ -45,10 +49,11 @@
     "weight_kg": 35,
     "rdm": true,
     "manual_url": "https://motion-rental.de/downloads/artikelpdfs/26489-CLAYPAKY_Skylos_manual_ENG.pdf",
-    "dmx_chart_url": "https://www.visiontwo.de/fileadmin/user_upload/Claypaky_Skylos_DMX-Channels_06.2023.pdf",
-    "suppliers": []
+    "dmx_chart_url": "https://www.visiontwo.de/fileadmin/user_upload/Claypaky_Skylos_DMX-Channels_06.2023.pdf"
   },
   {
+    "suppliers": [],
+    "checked": false,
     "id": "clf-serius",
     "brand": "CLF",
     "name": "Serius",
@@ -57,10 +62,11 @@
     "weight_kg": 21,
     "rdm": true,
     "manual_url": "https://www.clf-lighting.com/wp-content/uploads/Manual-CLF-Serius.pdf",
-    "dmx_chart_url": null,
-    "suppliers": []
+    "dmx_chart_url": null
   },
   {
+    "suppliers": [],
+    "checked": false,
     "id": "robe-iforte-ltx",
     "brand": "Robe",
     "name": "iForte LTX",
@@ -69,7 +75,6 @@
     "weight_kg": 37.6,
     "rdm": true,
     "manual_url": "https://www.robe.cz/res/downloads/user_manuals/User_manual_Robin_iForte_LTX_WB_iForte_LTX_FS.pdf",
-    "dmx_chart_url": "https://www.robe.cz/res/downloads/dmx_charts/Robin_iForte_LTX_iForte_LTX_FS_DMX_charts.pdf",
-    "suppliers": []
+    "dmx_chart_url": "https://www.robe.cz/res/downloads/dmx_charts/Robin_iForte_LTX_iForte_LTX_FS_DMX_charts.pdf"
   }
 ]
