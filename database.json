@@ -70,16 +70,19 @@
       "dmx_chart_url": "https://www.chauvetprofessional.com/wp-content/uploads/2021/09/Color-STRIKE-M_DMX_Chart_Rev7.pdf"
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "claypaky-arolla-aqua-lt",
       "brand": "Clay Paky",
       "name": "Arolla Aqua LT",
       "type": "Moving Head Spot",
       "source": "LED",
-      "weight_kg": 6.1,
+      "weight_kg": 40.7,
       "rdm": true,
-      "manual_url": null,
+      "checked": true,
+      "suppliers": [
+        "AED",
+        "Rent-All"
+      ],
+      "manual_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=4625",
       "dmx_chart_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=4450"
     },
     {
