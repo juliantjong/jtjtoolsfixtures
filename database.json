@@ -197,17 +197,18 @@
       "dmx_chart_url": null
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "showtec-titan-strobe-blaze-1500w",
       "brand": "Showtec",
       "name": "Titan Strobe Blaze 1500w",
       "type": "Strobe",
       "source": "Gas Discharge",
-      "weight_kg": 28,
+      "weight_kg": 8,
       "rdm": false,
-      "auto_import": true,
-      "manual_url": null,
+      "checked": true,
+      "suppliers": [
+        "Leenders Rentall"
+      ],
+      "manual_url": "https://www.showtec-lights.com/nl/mwdownloads/download/link/id/17429339",
       "dmx_chart_url": null
     },
     {
