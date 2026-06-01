@@ -124,15 +124,18 @@
       "dmx_chart_url": null
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "robe-iforte-ltx",
       "brand": "Robe",
       "name": "iForte LTX",
       "type": "Moving Head Spot",
       "source": "LED",
-      "weight_kg": 37.6,
+      "weight_kg": 49,
       "rdm": true,
+      "checked": true,
+      "suppliers": [
+        "AED",
+        "Rent-All"
+      ],
       "manual_url": "https://www.robe.cz/res/downloads/user_manuals/User_manual_Robin_iForte_LTX_WB_iForte_LTX_FS.pdf",
       "dmx_chart_url": "https://www.robe.cz/res/downloads/dmx_charts/Robin_iForte_LTX_iForte_LTX_FS_DMX_charts.pdf"
     },
