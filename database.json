@@ -27,7 +27,7 @@
     "name": "MAC Viper Profile",
     "type": "Moving Head Spot",
     "source": "Gas Discharge",
-    "weight_kg": 24.0,
+    "weight_kg": 24,
     "rdm": true,
     "manual_url": null,
     "dmx_chart_url": null
@@ -60,7 +60,7 @@
     "name": "Sharpy",
     "type": "Moving Head Beam",
     "source": "Gas Discharge",
-    "weight_kg": 16.0,
+    "weight_kg": 16,
     "rdm": false,
     "manual_url": null,
     "dmx_chart_url": null
@@ -79,7 +79,7 @@
   {
     "id": "chauvet-colorado-solo",
     "brand": "Chauvet Professional",
-    "name": "Colorado Solo",
+    "name": "Colorado Solo julian",
     "type": "LED Par",
     "source": "LED",
     "weight_kg": 3.4,
