@@ -243,23 +243,6 @@
       "rdm": false,
       "manual_url": null,
       "dmx_chart_url": null
-    },
-    {
-      "id": "iris-bartels",
-      "brand": "Iris",
-      "name": "Bartels",
-      "type": "Moving Head Beam",
-      "source": "LED",
-      "weight_kg": 12,
-      "rdm": true,
-      "checked": false,
-      "suppliers": [
-        "AED",
-        "ATG",
-        "Purple Haze"
-      ],
-      "manual_url": null,
-      "dmx_chart_url": null
     }
   ]
 }
