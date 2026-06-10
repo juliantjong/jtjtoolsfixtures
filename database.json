@@ -57,6 +57,13 @@
       "dmx_chart_url": "https://www.ayrton.eu/wp-content/uploads/2024/09/Veloce_Profile_DMX-Chart-V115-1.pdf"
     },
     {
+      "suppliers": [
+        "AED",
+        "Euro-PA",
+        "RF Shows",
+        "Rent-All"
+      ],
+      "checked": true,
       "id": "chauvet-color-strike-m",
       "brand": "Chauvet Professional",
       "name": "Color Strike M",
@@ -64,17 +71,15 @@
       "source": "LED",
       "weight_kg": 12.1,
       "rdm": true,
-      "checked": true,
-      "suppliers": [
-        "AED",
-        "Euro-PA",
-        "RF Shows",
-        "Rent-All"
-      ],
       "manual_url": "https://chauvetprofessional.com/wp-content/uploads/2021/09/Color_Strike_MV2_UM_Rev15.pdf",
       "dmx_chart_url": "https://chauvetprofessional.com/wp-content/uploads/2021/09/Color-STRIKE-MV2_DMX_Chart_Rev10.pdf"
     },
     {
+      "suppliers": [
+        "AED",
+        "Rent-All"
+      ],
+      "checked": true,
       "id": "claypaky-arolla-aqua-lt",
       "brand": "Clay Paky",
       "name": "Arolla Aqua LT",
@@ -82,15 +87,15 @@
       "source": "LED",
       "weight_kg": 40.7,
       "rdm": true,
-      "checked": true,
-      "suppliers": [
-        "AED",
-        "Rent-All"
-      ],
       "manual_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=4625",
       "dmx_chart_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=4450"
     },
     {
+      "suppliers": [
+        "AED",
+        "Rent-All"
+      ],
+      "checked": true,
       "id": "claypaky-skylos",
       "brand": "Clay Paky",
       "name": "Skylos",
@@ -98,15 +103,16 @@
       "source": "Laser",
       "weight_kg": 60,
       "rdm": true,
-      "checked": true,
-      "suppliers": [
-        "AED",
-        "Rent-All"
-      ],
       "manual_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=3990",
       "dmx_chart_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=4002"
     },
     {
+      "suppliers": [
+        "AED",
+        "Euro-PA",
+        "Rent-All"
+      ],
+      "checked": true,
       "id": "clf-serius",
       "brand": "CLF",
       "name": "Serius",
@@ -114,16 +120,15 @@
       "source": "LED",
       "weight_kg": 17,
       "rdm": true,
-      "checked": true,
-      "suppliers": [
-        "AED",
-        "Euro-PA",
-        "Rent-All"
-      ],
       "manual_url": "https://www.clf-lighting.com/wp-content/uploads/Manual-CLF-Serius.pdf",
       "dmx_chart_url": null
     },
     {
+      "suppliers": [
+        "AED",
+        "Rent-All"
+      ],
+      "checked": true,
       "id": "robe-iforte-ltx",
       "brand": "Robe",
       "name": "iForte LTX",
@@ -131,11 +136,6 @@
       "source": "LED",
       "weight_kg": 49,
       "rdm": true,
-      "checked": true,
-      "suppliers": [
-        "AED",
-        "Rent-All"
-      ],
       "manual_url": "https://www.robe.cz/res/downloads/user_manuals/User_manual_Robin_iForte_LTX_WB_iForte_LTX_FS.pdf",
       "dmx_chart_url": "https://www.robe.cz/res/downloads/dmx_charts/Robin_iForte_LTX_iForte_LTX_FS_DMX_charts.pdf"
     },
@@ -241,6 +241,23 @@
       "source": "LED",
       "weight_kg": 3,
       "rdm": false,
+      "manual_url": null,
+      "dmx_chart_url": null
+    },
+    {
+      "id": "iris-bartels",
+      "brand": "Iris",
+      "name": "Bartels",
+      "type": "Moving Head Beam",
+      "source": "LED",
+      "weight_kg": 12,
+      "rdm": true,
+      "checked": false,
+      "suppliers": [
+        "AED",
+        "ATG",
+        "Purple Haze"
+      ],
       "manual_url": null,
       "dmx_chart_url": null
     }
