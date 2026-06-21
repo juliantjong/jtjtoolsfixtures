@@ -403,6 +403,13 @@
       "dmx_chart_url": null
     },
     {
+      "suppliers": [
+        "AED",
+        "Euro-PA",
+        "PRG",
+        "Rent-All"
+      ],
+      "checked": true,
       "id": "clay-paky-sharpy",
       "brand": "Clay Paky",
       "name": "Sharpy",
@@ -410,15 +417,24 @@
       "source": "Gas Discharge",
       "weight_kg": 14,
       "rdm": true,
+      "manual_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=284",
+      "dmx_chart_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=283"
+    },
+    {
+      "id": "glp-jdc-1",
+      "brand": "GLP",
+      "name": "JDC-1",
+      "type": "Strobe",
+      "source": "LED",
+      "weight_kg": 15,
+      "rdm": true,
       "checked": true,
       "suppliers": [
         "AED",
-        "Euro-PA",
-        "PRG",
-        "Rent-All"
+        "PRG"
       ],
-      "manual_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=284",
-      "dmx_chart_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=283"
+      "manual_url": "https://germanlightproducts.com/wp-content/uploads/2018/03/JDC1-User-Manual-EN-v1.0.pdf",
+      "dmx_chart_url": "https://glp.de/files/products/jdc1-product-data/JDC1_DMX_Channel_Index_EN_V.4.0_Rev.20191023.pdf"
     }
   ]
 }
