@@ -305,32 +305,34 @@
       "dmx_chart_url": null
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "ayrton-eurus",
       "brand": "Ayrton",
       "name": "Eurus",
-      "type": "Moving Head Wash",
+      "type": "Moving Head Profile",
       "source": "LED",
       "weight_kg": 15,
       "rdm": true,
-      "auto_import": true,
-      "manual_url": null,
-      "dmx_chart_url": null
+      "checked": true,
+      "suppliers": [
+        "PRG"
+      ],
+      "manual_url": "https://www.ayrton.eu/wp-content/uploads/2020/12/Eurus-S-TC-User-Manual-V202.pdf",
+      "dmx_chart_url": "https://www.ayrton.eu/wp-content/uploads/2020/06/Eurus-Profile-DMX-Chart_V221.pdf"
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "ayrton-nando-520",
       "brand": "Ayrton",
       "name": "Nando 520",
-      "type": "Moving Head Spot",
-      "source": "Gas Discharge",
+      "type": "Moving Head Wash",
+      "source": "LED",
       "weight_kg": 25,
       "rdm": true,
-      "auto_import": true,
-      "manual_url": null,
-      "dmx_chart_url": null
+      "checked": true,
+      "suppliers": [
+        "PRG"
+      ],
+      "manual_url": "https://www.ayrton.eu/wp-content/uploads/2023/04/Nando502Wash_Web_EN_V113.pdf",
+      "dmx_chart_url": "https://www.ayrton.eu/wp-content/uploads/2023/04/Nando-502-Wash-DMX-CHart-V01-2.pdf"
     },
     {
       "suppliers": [
