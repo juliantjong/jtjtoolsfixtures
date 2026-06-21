@@ -381,14 +381,6 @@
       "dmx_chart_url": "https://sgmlight.com/Admin/Public/DWSDownload.aspx?File=%5CFiles%5CFiles%5CPerfion%5CStrRDDATADMXFileGroup%5CP-5%20RGBW%5CFileRDDATADMXChartsP5RGBWRnD%5CDMX_Protocol_P_5_Rev4.pdf"
     },
     {
-      "id": "showtec-sunstrip-active-mk-2",
-      "brand": "Showtec",
-      "name": "Sunstrip active mk 2",
-      "type": "Audience Blinder",
-      "source": "Halogen",
-      "weight_kg": 2,
-      "rdm": false,
-      "checked": true,
       "suppliers": [
         "AED",
         "ATG",
@@ -399,8 +391,34 @@
         "RF Shows",
         "Rent-All"
       ],
+      "checked": true,
+      "id": "showtec-sunstrip-active-mk-2",
+      "brand": "Showtec",
+      "name": "Sunstrip active mk 2",
+      "type": "Audience Blinder",
+      "source": "Halogen",
+      "weight_kg": 2,
+      "rdm": false,
       "manual_url": "https://www.hisa-vizij.com/media/SlikeIT/Datoteke/sunstrip%20Showtec%20Sunstrip%20Active%20MKII%202.pdf",
       "dmx_chart_url": null
+    },
+    {
+      "id": "clay-paky-sharpy",
+      "brand": "Clay Paky",
+      "name": "Sharpy",
+      "type": "Moving Head Beam",
+      "source": "Gas Discharge",
+      "weight_kg": 14,
+      "rdm": true,
+      "checked": true,
+      "suppliers": [
+        "AED",
+        "Euro-PA",
+        "PRG",
+        "Rent-All"
+      ],
+      "manual_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=284",
+      "dmx_chart_url": "https://service.claypaky.it/servlet/checkDocumentsFile?Id=283"
     }
   ]
 }
