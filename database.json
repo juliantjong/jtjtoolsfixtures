@@ -245,6 +245,10 @@
       "dmx_chart_url": null
     },
     {
+      "suppliers": [
+        "PRG"
+      ],
+      "checked": true,
       "id": "ayrton-perseo",
       "brand": "Ayrton",
       "name": "Perseo",
@@ -252,16 +256,10 @@
       "source": "LED",
       "weight_kg": 18,
       "rdm": true,
-      "checked": true,
-      "suppliers": [
-        "PRG"
-      ],
       "manual_url": "https://www.stageeventlight.se/upl/files/176068/perseo-user-manual-english.pdf",
       "dmx_chart_url": "https://www.ayrton.eu/wp-content/uploads/2019/03/Perseo-DMX-V1.pdf"
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "glp-fusion-stick-fs16z",
       "brand": "GLP",
       "name": "Fusion Stick FS16Z",
@@ -269,13 +267,14 @@
       "source": "LED",
       "weight_kg": 3.5,
       "rdm": true,
-      "auto_import": true,
-      "manual_url": null,
-      "dmx_chart_url": null
+      "checked": true,
+      "suppliers": [
+        "PRG"
+      ],
+      "manual_url": "https://glp.de/files/products/fusion-stick-fs16-z-product-data/GLP_Fusion_FS16Z_User_Manual_EN_Rev_20240625-01.pdf",
+      "dmx_chart_url": "https://www.germanlightproducts.com/wp-content/uploads/2021/06/GLP-FUSION-Stick-FS16-Z-DMX-Channel-Index-EN-Rev-C2.pdf"
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "glp-fusion-x-par-12z",
       "brand": "GLP",
       "name": "Fusion X-Par 12Z",
@@ -283,13 +282,14 @@
       "source": "LED",
       "weight_kg": 2.8,
       "rdm": true,
-      "auto_import": true,
-      "manual_url": null,
-      "dmx_chart_url": null
+      "checked": true,
+      "suppliers": [
+        "PRG"
+      ],
+      "manual_url": "https://www.germanlightproducts.com/wp-content/uploads/2022/11/FUSION-X-Par-12-Z-User-Manual-EN-Rev-A.pdf",
+      "dmx_chart_url": "https://glp.de/files/products/fusion-x-par-12z-product-data/FUSION_X-PAR_12Z_DMX_Channel_Index_EN_Rev20240624-01.pdf"
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "martin-atomic-led",
       "brand": "Martin",
       "name": "Atomic LED",
@@ -297,8 +297,11 @@
       "source": "LED",
       "weight_kg": 4.5,
       "rdm": true,
-      "auto_import": true,
-      "manual_url": null,
+      "checked": true,
+      "suppliers": [
+        "PRG"
+      ],
+      "manual_url": "https://www.martin.com/en/site_elements/martin-manuals-atomic-3000-led-user-manual",
       "dmx_chart_url": null
     },
     {
@@ -330,6 +333,11 @@
       "dmx_chart_url": null
     },
     {
+      "suppliers": [
+        "PRG",
+        "RF Shows"
+      ],
+      "checked": true,
       "id": "chauvet-professional-strike-1",
       "brand": "Chauvet Professional",
       "name": "Strike 1",
@@ -337,17 +345,10 @@
       "source": "LED",
       "weight_kg": 2.2,
       "rdm": true,
-      "checked": true,
-      "suppliers": [
-        "PRG",
-        "RF Shows"
-      ],
       "manual_url": "https://www.christielites.com/file_uploads/STRIKE_1_UM_Rev5_WO.pdf",
       "dmx_chart_url": "https://chauvetprofessional.com/wp-content/uploads/2018/10/Strike_1_DMX_Chart_Rev4.pdf"
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "glp-x5",
       "brand": "GLP",
       "name": "X5",
@@ -355,13 +356,14 @@
       "source": "LED",
       "weight_kg": 19,
       "rdm": true,
-      "auto_import": true,
-      "manual_url": null,
-      "dmx_chart_url": null
+      "checked": true,
+      "suppliers": [
+        "PRG"
+      ],
+      "manual_url": "https://www.germanlightproducts.com/wp-content/uploads/2022/01/GLP-impression-X5-User-Manual-V1-0-0-EN-Rev20220720-01.pdf",
+      "dmx_chart_url": "https://glp.de/files/products/impression-x5-product-data/GLP_impression_X5_DMX_Channel_Index_EN_Rev_20240424-01.pdf"
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "sgm-sgm-p5",
       "brand": "SGM",
       "name": "SGM P5",
@@ -369,9 +371,12 @@
       "source": "LED",
       "weight_kg": 22,
       "rdm": true,
-      "auto_import": true,
-      "manual_url": null,
-      "dmx_chart_url": null
+      "checked": true,
+      "suppliers": [
+        "PRG"
+      ],
+      "manual_url": "https://richardmartinlighting.co.uk/wp-content/uploads/SGM-P5-Manual.pdf",
+      "dmx_chart_url": "https://sgmlight.com/Admin/Public/DWSDownload.aspx?File=%5CFiles%5CFiles%5CPerfion%5CStrRDDATADMXFileGroup%5CP-5%20RGBW%5CFileRDDATADMXChartsP5RGBWRnD%5CDMX_Protocol_P_5_Rev4.pdf"
     }
   ]
 }
