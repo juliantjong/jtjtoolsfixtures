@@ -245,8 +245,6 @@
       "dmx_chart_url": null
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "ayrton-perseo",
       "brand": "Ayrton",
       "name": "Perseo",
@@ -254,9 +252,12 @@
       "source": "LED",
       "weight_kg": 18,
       "rdm": true,
-      "auto_import": true,
-      "manual_url": null,
-      "dmx_chart_url": null
+      "checked": true,
+      "suppliers": [
+        "PRG"
+      ],
+      "manual_url": "https://www.stageeventlight.se/upl/files/176068/perseo-user-manual-english.pdf",
+      "dmx_chart_url": "https://www.ayrton.eu/wp-content/uploads/2019/03/Perseo-DMX-V1.pdf"
     },
     {
       "suppliers": [],
@@ -329,18 +330,20 @@
       "dmx_chart_url": null
     },
     {
-      "suppliers": [],
-      "checked": false,
       "id": "chauvet-professional-strike-1",
       "brand": "Chauvet Professional",
       "name": "Strike 1",
       "type": "Strobe",
       "source": "LED",
       "weight_kg": 2.2,
-      "rdm": false,
-      "auto_import": true,
-      "manual_url": null,
-      "dmx_chart_url": null
+      "rdm": true,
+      "checked": true,
+      "suppliers": [
+        "PRG",
+        "RF Shows"
+      ],
+      "manual_url": "https://www.christielites.com/file_uploads/STRIKE_1_UM_Rev5_WO.pdf",
+      "dmx_chart_url": "https://chauvetprofessional.com/wp-content/uploads/2018/10/Strike_1_DMX_Chart_Rev4.pdf"
     },
     {
       "suppliers": [],
